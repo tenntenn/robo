@@ -1,5 +1,7 @@
 # robo
 
+## How to use
+
 ```go
 package main
 
@@ -22,3 +24,7 @@ func run(r *robo.Robo) {
 	r.U()
 }
 ```
+
+## Licence
+
+The robot image is licenced by [いらすとや](https://www.irasutoya.com/).

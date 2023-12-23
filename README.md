@@ -25,6 +25,6 @@ func run(r *robo.Robo) {
 }
 ```
 
-## Licence
+## Copyright
 
-The robot image is licenced by [いらすとや](https://www.irasutoya.com/).
+[いらすとや](https://www.irasutoya.com/) has the copyright of images under the img directory.
